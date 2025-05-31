@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/websiteMain/static/css/main.409b35b5.css",
-    "main.js": "/websiteMain/static/js/main.2f827d70.js",
+    "main.css": "/websiteMain/static/css/main.4e2f9412.css",
+    "main.js": "/websiteMain/static/js/main.8f0dbb6f.js",
     "static/media/logo.png": "/websiteMain/static/media/logo.22f16997057d675af2d0.png",
     "static/media/PlaceHolderImage.jpeg": "/websiteMain/static/media/PlaceHolderImage.73ea08ced56bb8e3bbaa.jpeg",
     "static/media/3.png": "/websiteMain/static/media/3.d1e0e80a0336cea80ac3.png",
@@ -22,10 +22,12 @@
     "static/media/Nirika.jpg": "/websiteMain/static/media/Nirika.a6795c02b807f1b20cca.jpg",
     "static/media/khemraj.jpg": "/websiteMain/static/media/khemraj.38e57d0fe64155c407b1.jpg",
     "static/media/Balram.png": "/websiteMain/static/media/Balram.142c1697eacf5ac83b7b.png",
+    "static/media/Sandesh.jpg": "/websiteMain/static/media/Sandesh.96501548d2214b28a116.jpg",
     "static/media/6.jpg": "/websiteMain/static/media/6.9be847c0d7df08179cdd.jpg",
     "static/media/Shreya.jpg": "/websiteMain/static/media/Shreya.7052aa3ea4dcddfd23eb.jpg",
     "static/media/Avinash.jpg": "/websiteMain/static/media/Avinash.4943d865d8ebc754db29.jpg",
     "static/media/Pankaj.jpg": "/websiteMain/static/media/Pankaj.7cbf5e8cd86f0c41bddb.jpg",
+    "static/media/Biraj.jpg": "/websiteMain/static/media/Biraj.2f1cfe1139daa0bc6121.jpg",
     "static/media/Avignya.jpg": "/websiteMain/static/media/Avignya.6358373e1f3ed3a00c5e.jpg",
     "static/media/Shreeichchha.jpg": "/websiteMain/static/media/Shreeichchha.6b4893ed355c26df9142.jpg",
     "static/media/Samiksha.jpg": "/websiteMain/static/media/Samiksha.6ad07b6d4306ef9b117a.jpg",
@@ -36,14 +38,15 @@
     "static/media/Ishwor.jpg": "/websiteMain/static/media/Ishwor.a544b99eb3a40bd3244a.jpg",
     "static/media/Jatin.jpg": "/websiteMain/static/media/Jatin.0de788fd246d7d960c57.jpg",
     "static/media/Kashmir.jpg": "/websiteMain/static/media/Kashmir.3b0fa060c5d7908d81dc.jpg",
+    "static/media/Dheeraj.jpg": "/websiteMain/static/media/Dheeraj.563a239bea8229be74eb.jpg",
     "static/media/mail.png": "/websiteMain/static/media/mail.2a92cf7f5e0700ed4bff.png",
     "index.html": "/websiteMain/index.html",
     "static/media/index.cjs": "/websiteMain/static/media/index.f6d03137e8c9dd0de04c.cjs",
-    "main.409b35b5.css.map": "/websiteMain/static/css/main.409b35b5.css.map",
-    "main.2f827d70.js.map": "/websiteMain/static/js/main.2f827d70.js.map"
+    "main.4e2f9412.css.map": "/websiteMain/static/css/main.4e2f9412.css.map",
+    "main.8f0dbb6f.js.map": "/websiteMain/static/js/main.8f0dbb6f.js.map"
   },
   "entrypoints": [
-    "static/css/main.409b35b5.css",
-    "static/js/main.2f827d70.js"
+    "static/css/main.4e2f9412.css",
+    "static/js/main.8f0dbb6f.js"
   ]
 }
