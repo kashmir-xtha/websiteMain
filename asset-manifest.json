@@ -1,23 +1,23 @@
 {
   "files": {
     "main.css": "/websiteMain/static/css/main.ed8407bf.css",
-    "main.js": "/websiteMain/static/js/main.9a5ec508.js",
+    "main.js": "/websiteMain/static/js/main.20903d35.js",
     "static/media/logo.png": "/websiteMain/static/media/logo.22f16997057d675af2d0.png",
     "static/media/PlaceHolderImage.jpeg": "/websiteMain/static/media/PlaceHolderImage.73ea08ced56bb8e3bbaa.jpeg",
-    "static/media/3.png": "/websiteMain/static/media/3.d1e0e80a0336cea80ac3.png",
-    "static/media/5.png": "/websiteMain/static/media/5.01e9d529ba3de4833ba8.png",
+    "static/media/3.png": "/websiteMain/static/media/3.da189a61213a4ff65266.png",
+    "static/media/5.png": "/websiteMain/static/media/5.d69f55a7eb20a9a8c9fc.png",
     "static/media/4.jpg": "/websiteMain/static/media/4.7fbc879ab4da7334dbe1.jpg",
     "static/media/1.jpg": "/websiteMain/static/media/1.3cc9e0a551b9af92a18a.jpg",
     "static/media/AboutImage.png": "/websiteMain/static/media/AboutImage.c386b4fe76ec12d24d48.png",
-    "static/media/1.png": "/websiteMain/static/media/1.8c87be53ef1ebe5f7033.png",
+    "static/media/1.png": "/websiteMain/static/media/1.01f162e8f4952cd5a51e.png",
     "static/media/5.jpg": "/websiteMain/static/media/5.697f9370809440b77842.jpg",
     "static/media/cover.jpg": "/websiteMain/static/media/cover.3f356214b8edde957aba.jpg",
     "static/media/3.jpg": "/websiteMain/static/media/3.edc90cfb7fdcfee66ec2.jpg",
-    "static/media/cover.png": "/websiteMain/static/media/cover.428c8b68bc508fe67c25.png",
+    "static/media/cover.png": "/websiteMain/static/media/cover.8c87be53ef1ebe5f7033.png",
     "static/media/6.png": "/websiteMain/static/media/6.9d0b1709ce0a36b8a2be.png",
-    "static/media/4.png": "/websiteMain/static/media/4.da189a61213a4ff65266.png",
+    "static/media/4.png": "/websiteMain/static/media/4.01e9d529ba3de4833ba8.png",
     "static/media/2.jpg": "/websiteMain/static/media/2.da86509768188fb62a6b.jpg",
-    "static/media/2.png": "/websiteMain/static/media/2.01f162e8f4952cd5a51e.png",
+    "static/media/2.png": "/websiteMain/static/media/2.d1e0e80a0336cea80ac3.png",
     "static/media/mapImage.png": "/websiteMain/static/media/mapImage.07c51c8535a60e4c1f1c.png",
     "static/media/Nirika.jpg": "/websiteMain/static/media/Nirika.a6795c02b807f1b20cca.jpg",
     "static/media/khemraj.jpg": "/websiteMain/static/media/khemraj.38e57d0fe64155c407b1.jpg",
@@ -44,10 +44,10 @@
     "index.html": "/websiteMain/index.html",
     "static/media/index.cjs": "/websiteMain/static/media/index.f6d03137e8c9dd0de04c.cjs",
     "main.ed8407bf.css.map": "/websiteMain/static/css/main.ed8407bf.css.map",
-    "main.9a5ec508.js.map": "/websiteMain/static/js/main.9a5ec508.js.map"
+    "main.20903d35.js.map": "/websiteMain/static/js/main.20903d35.js.map"
   },
   "entrypoints": [
     "static/css/main.ed8407bf.css",
-    "static/js/main.9a5ec508.js"
+    "static/js/main.20903d35.js"
   ]
 }
